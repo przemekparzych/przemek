@@ -1,0 +1,1 @@
+﻿SELECT summoner.name, gamedto.teamid FROM summoner, gamedto where summoner.id = gamedto.summonerId

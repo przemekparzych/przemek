@@ -167,6 +167,7 @@
     </Compile>
     <Compile Include="Models\CurrentGameSummonersViewModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Test folder\Class1.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="App_Data\lol_database.sql" />
@@ -210,9 +211,7 @@
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Test folder\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
     <Content Include="fonts\glyphicons-halflings-regular.ttf" />
